@@ -1,0 +1,5 @@
+<!-- rounded_image.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="22dp" /> <!-- Укажите радиус закругления в dp -->
+    <solid android:color="@android:color/white" /> <!-- Цвет фона, при необходимости -->
+</shape>
